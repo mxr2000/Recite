@@ -1,0 +1,10 @@
+D:\程序\Recite\Recite\bin\Debug\Recite.exe.config
+D:\程序\Recite\Recite\bin\Debug\Recite.exe
+D:\程序\Recite\Recite\bin\Debug\Recite.pdb
+D:\程序\Recite\Recite\obj\Debug\Recite.csprojAssemblyReference.cache
+D:\程序\Recite\Recite\obj\Debug\Recite.Form1.resources
+D:\程序\Recite\Recite\obj\Debug\Recite.Properties.Resources.resources
+D:\程序\Recite\Recite\obj\Debug\Recite.csproj.GenerateResource.cache
+D:\程序\Recite\Recite\obj\Debug\Recite.csproj.CoreCompileInputs.cache
+D:\程序\Recite\Recite\obj\Debug\Recite.exe
+D:\程序\Recite\Recite\obj\Debug\Recite.pdb

@@ -1,0 +1,9 @@
+giggle,格格地笑 傻笑
+grin,露齿而笑
+sniker,忍笑，暗笑
+roar,哄堂大笑
+simper,假笑，痴笑，傻笑
+chortle,欢乐，哈哈大笑
+guffaw,大笑，捧腹大笑
+smirk,自鸣得意地笑;傻笑
+sneer,嘲笑;讥讽;嗤笑

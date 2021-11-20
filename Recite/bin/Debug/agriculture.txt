@@ -1,0 +1,8 @@
+shovel,铲;铁铲;
+spade,铁锹
+hoe,锄头
+sickle,镰刀
+plough,犁(田);耕(地);
+plow,犁；耕
+harrow,耙
+tractor,拖拉机
